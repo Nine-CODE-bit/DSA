@@ -5,3 +5,5 @@ This section contains the reference codes for the six after-class OJ assignments
 作业难度不高，仅供参考，杜绝抄袭
 
 The difficulty of the assignment is not high, it is for reference only, and plagiarism is eliminated
+
+P.S. 关于第二次作业《乐谱重排》，笔者使用了不完备的贪心算法，由于数据点较水，依然成功通过；事实上要解决完备的问题，需要进行遍历。
