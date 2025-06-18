@@ -6,6 +6,6 @@ This section contains the reference codes for the six after-class OJ assignments
 
 The difficulty of the assignment is not high, it is for reference only, and plagiarism is eliminated
 
-P.S. 关于第二次作业《乐谱重排》，笔者使用了不完备的贪心算法，由于数据点较水，依然成功通过；事实上要解决完备的问题，需要进行遍历。
+P.S. 关于第二次作业《乐谱重排》，笔者使用了不完备的贪心算法，由于数据点较水，依然成功通过。事实上要解决完备的问题，需要进行遍历。
 
-P.S. Regarding the second assignment "Score Rearrangement", the author used an incomplete greedy algorithm, but due to the weakness of the data points, it still passed successfully; In fact, to solve a complete problem, traversal is required.
+P.S. Regarding the second assignment "Score Rearrangement", the author used an incomplete greedy algorithm, but due to the weakness of the data points, it still passed successfully. In fact, to solve a complete problem, traversal is required.
